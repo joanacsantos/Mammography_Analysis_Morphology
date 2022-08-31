@@ -1,4 +1,4 @@
-#################################  DIP Code for the Paper ################################
+###########################  DIP Code for the Imputation Phase ###########################
 ## This script reads performs the imputation for the DIP algorithm.                     ##
 ## This script is applicable on full images from the MIAS, INbreast and CSAW datasets.  ##
 ##########################################################################################

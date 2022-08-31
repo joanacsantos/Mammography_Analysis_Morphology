@@ -1,4 +1,4 @@
-########################  Base Code for the Morphology Evaluation ########################
+##########################  Base Code for the Morphology Evaluation ######################
 ## This scrip performs the morphology evaluation for the CBIS-DDSM dataset.             ##
 ##########################################################################################
 
@@ -72,7 +72,6 @@ def single_run_process(run, mr, np_images,label):
       n_pixels_reconstructed_erro_5 = []
       n_pixels_reconstructed_erro_10 = []
       n_pixels_reconstructed_erro_15 = []
-    
 
     for img_index in range(0, images_with_mv_test.shape[0]):
       mask_image = np.reshape(masks_test[img_index],(100,100))

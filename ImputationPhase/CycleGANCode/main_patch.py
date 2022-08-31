@@ -1,4 +1,4 @@
-############################## CycleGAN Code for the Paper ###############################
+#########################  CycleGAN Code for the Imputation Phase ########################
 ## This script reads performs the imputation for the CycleGAN algorithm.                ##
 ## This script is applicable on full images from the CBIS-DDSM dataset.                 ##
 ## This code is based on the original paper implementation, available on GitHub.        ##

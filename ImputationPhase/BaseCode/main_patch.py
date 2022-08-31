@@ -1,4 +1,4 @@
-################################  Base Code for the Paper ################################
+###########################  Base Code for the Imputation Phase ##########################
 ## This script reads performs the imputation for the VAE, KNN, MICE and MC algorithm.   ##
 ## This script is applicable on full images from the CBIS-DDSM dataset.                 ##
 ##########################################################################################

@@ -1,3 +1,8 @@
+######################  Classifier Code for the Classification Phase #####################
+## This script performs the classification of calcification and mass patch images from  ##
+## the CBIS-DDSM dataset.                                                               ##
+##########################################################################################
+
 import tensorflow.compat.v1 as tfv1
 import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
