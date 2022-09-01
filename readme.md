@@ -9,7 +9,7 @@ The research study of the article is divided into 3 phases (illustrated by the f
  3. Morphology Phase
  4. Classification Phase.
 
-<img width="498" alt="image" src="https://user-images.githubusercontent.com/57224933/187632144-87688d4e-6cff-4ad6-b55e-9d31690fd8d0.png">
+<img width="809" alt="Captura de ecrã 2022-09-01, às 09 27 42" src="https://user-images.githubusercontent.com/57224933/187869050-2d786c63-7bb5-43a7-89aa-584336478c8f.png">
 
 ## Preprocessing
 In this folder, the code for the preprocessing of the images from the 4 different datasets is available. 
