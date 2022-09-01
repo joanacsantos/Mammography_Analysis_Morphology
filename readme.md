@@ -16,14 +16,11 @@ In this folder, the code for the preprocessing of the images from the 4 differen
 
 To setup the preprocessing of the datasets, the data must be downloaded using the link within the code file and the directory variable must be changed to identify the directory of the downloaded data.
 
-
-
 ## Imputation Phase
 In this folder, the code for the imputation phase is available. The code is divided into base code, DIP code and CycleGAN code. The base code presents the code for the KNN, MICE, MC and VAE algorithms, and the remaining algorithms are in the other folders. There are separate scripts for ROI patch and whole mammography images.
 
-
 ## Morphology Phase
-In this folder, the main code for the evaluation on the morphology is presented. 
+In this folder, the main code for the evaluation on the morphology is presented. Only the analysis for the entire dataset is included. To perform the analysis by morphology categories, the datasets must be separated into subsets of the images that require the original csv files from the CBIS-DDSM database.
 
 ## Classification Phase
-In this folder, the main code for the evaluation on the classification is presented. 
+In this folder, the main code for the evaluation on the classification is presented. The code for the classifiers is separated into 2 scripts: one for the benign and malignant classification and another for the calcification and mass classification. For the evaluation, both classifiers are included in the process, however, the scripts for KNN/MICE and DIP are separated.
